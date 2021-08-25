@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1051684551597",
+    "project_id": "rutasmaps-6e512",
+    "storage_bucket": "rutasmaps-6e512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051684551597:android:95b49306d7c6d76ae8ff24",
+        "android_client_info": {
+          "package_name": "com.example.rutasmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051684551597-mjliftnne8cvnt2025u78kqeopuhe76u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rutasmaps",
+            "certificate_hash": "c3513702c84c14c032e0ec1180ea61830bbce9ee"
+          }
+        },
+        {
+          "client_id": "1051684551597-cu7h2o5fcaai4k1v8uu465r7r8p8idu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDSOj7hCIz2RJC0YABDjMuQYN6snab9r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051684551597-cu7h2o5fcaai4k1v8uu465r7r8p8idu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
